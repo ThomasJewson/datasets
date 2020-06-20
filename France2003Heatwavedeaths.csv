@@ -1,13 +1,13 @@
-,City,2003 Deaths,Mean deaths 199-2002,Excess deaths in 2003 (%),Days w/ high temp >35C,Days w/ low temp >22C,Change in mean temp over period (C)
-0,Little,200,192.3,4.0,3,0,4.0
-1,Marseilles,571,456.8,25.0,11,14,4.3
-2,Grenoble,148,115.6,28.0,12,0,6.3
-3,Rennes,156,114.7,36.0,6,2,5.6
-4,Toulouse,315,231.6,36.0,12,6,6.6
-5,Bordeaux,318,222.4,43.0,12,7,6.2
-6,Strasbourg,253,167.5,51.0,10,0,5.9
-7,Nice,341,222.9,53.0,1,18,4.3
-8,Poitiers,184,102.8,79.0,11,1,7.3
-9,Lyon,447,248.3,80.0,11,9,6.8
-11,Dijon,168,87.0,93.0,11,4,7.4
-12,Paris,1854,766.1,142.0,9,9,6.7
+City,2003 Deaths,Mean deaths 199-2002,Excess deaths in 2003 (%),Days w/ high temp >35C,Days w/ low temp >22C,Change in mean temp over period (C)
+Little,200,192.3,4.0,3,0,4.0
+Marseilles,571,456.8,25.0,11,14,4.3
+Grenoble,148,115.6,28.0,12,0,6.3
+Rennes,156,114.7,36.0,6,2,5.6
+Toulouse,315,231.6,36.0,12,6,6.6
+Bordeaux,318,222.4,43.0,12,7,6.2
+Strasbourg,253,167.5,51.0,10,0,5.9
+Nice,341,222.9,53.0,1,18,4.3
+Poitiers,184,102.8,79.0,11,1,7.3
+Lyon,447,248.3,80.0,11,9,6.8
+Dijon,168,87.0,93.0,11,4,7.4
+Paris,1854,766.1,142.0,9,9,6.7
