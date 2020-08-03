@@ -1,0 +1,13 @@
+Dataset:  passenger1.dat
+
+Source: J. Johnston (1956), "Scale, Costs, and Profitability in Road
+Passenger Transport," The Journal of Industrial Economics Vol 4, pp207-223.
+
+Description: Cross-sectional analysis of 24 British bus companies (1951).
+
+Variables/Columns:
+Expenses per car mile (pence)  9-13  
+Car miles per year (1000s)   19-23
+Percent of Double Deckers in fleet  28-32
+Percent of fleet on fuel oil      38-42
+Receipts per car mile (pence)    49-53
