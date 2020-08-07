@@ -1,0 +1,13 @@
+Source: Sprague, F.J. (1888). "The Solution of Municipal Rapid Transit"
+Journal of American Inst. of Elec. Engineers.  Vol. 5. pp. 352-399,
+
+Description: Weekly statistics on the operation of an electric railway
+in a municipal area.
+
+Variables/Columns:
+
+Week Number 7-8  (Beginning with week ending Feb. 8,1888)
+Number of cars operating  14-16
+Miles per week      20-24
+Passengers per week   28-32
+
