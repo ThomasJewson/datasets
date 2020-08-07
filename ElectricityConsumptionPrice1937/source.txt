@@ -1,0 +1,27 @@
+
+Source: H.S. Houthakker (1951). "Some Calculations on
+ Electricity Consumption in Great Britain", Journal of
+ the Royal Statistical Society, Series A, Vol. 114, #3
+ pp359-371
+
+Description: Consumers, electricity consumption, price,
+and equipment for 42 geographical areas of Great Britain.
+
+Variables/Columns
+Area Name     1-17
+Average # of consumers w/ 2-part tariffs 1937-8 (1000s)  19-22
+Previous variable as % of all families in area 27-30
+Average income of 2-part consumers (pounds)   35-38
+Price on 2-part tariffs 1933-4     43-46   /*  Pence per therm  */
+  "        "     "      1935-6     51-54
+  "        "     :      1937-8     59-62
+Marginal of price of gas 1935-6    67-70   /* pence per therm */
+  "        "     "       1937-8    75-78
+Average holdings of heavy equipment for 2-part consumers 1937-8 (kw)  83-86
+Per 2-part consumer consumption 1937-8 (kwh)  91-94
+"     "       "        "        1935-6  99-102
+"     "       "        "        1933-4  107-110
+
+
+These last 3 variables' years are not certain from a reading
+of his table.
